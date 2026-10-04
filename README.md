@@ -19,3 +19,5 @@ This project successfully completes 100% of the operational parameters required 
 ## 📂 Code Layout Map
 * `main.py`: The production library housing the polymorphic classes (`Rectangle` and `Square`).
 * `README.md`: Formal administrative project blueprint documentation.
+
+See also: [reanalysis of my undergraduate thesis data](https://github.com/Timimi18/yam-peel-adsorption-analysis)
